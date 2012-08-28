@@ -8,7 +8,9 @@ var JSPRO_CONFIG = {
         
         js: ["../library/custom.js"],
         
-    }
+    },
+    
+    log: true,
     
     
 }
